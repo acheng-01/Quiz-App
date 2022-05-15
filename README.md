@@ -4,6 +4,8 @@ Link to live app: https://acheng-01.github.io/Quiz-App/
 ## Overview
 The Quiz App is a simple web application that quizzes users on how well they know anything about cars.
 
+![](https://github.com/acheng-01/Quiz-App/blob/main/Quiz-App-Sample.gif)
+
 This was my first mini application from the Thinkful Bootcamp, which is created with only HTML, CSS, and Javascript. jQuery is used as the library.
 
 ## Limitations
